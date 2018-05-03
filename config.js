@@ -24,7 +24,7 @@ var networkStat = {
         ["triton.fatpanda.club", "http://54.148.101.99:8018"],
         ["luckypool.io", "https://trit.luckypool.io/api/pool"],
         ["trit.newpool.pw", "http://trit.newpool.pw:8120"],
-        ["cryptoknight.cc/triton/","https://cryptoknight.cc/rpc/triton"],
-        ["npool.pw/triton/","http://sg1.npool.pw:3010"]
+        ["cryptoknight.cc/triton","https://cryptoknight.cc/rpc/triton"],
+        ["npool.pw/triton","http://sg1.npool.pw:3010"]
     ]
 };
